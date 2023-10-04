@@ -35,7 +35,7 @@ https://drive.google.com/drive/folders/1dVwii7TNJpaFgj0uG4hpdJhc-Tag0kH9?usp=dri
 ![image](https://github.com/GarrettBlackwell/osticket-prereqs/assets/146894477/68d380c1-a0a0-4de6-b4b6-5f02eb88770a)
 </p>
 <p>
-Create a Vertual Machine (VM) in Azure, while creating the VM in the basics page create a resource group, name the VM, change the image to windows 10, pick a size with 2-4 vcpus, create a username and password and remember it.
+			Create a Vertual Machine (VM) in Azure, while creating the VM in the basics page create a resource group, name the VM, change the image to windows 10, pick a size with 2-4 vcpus, create a username and password and remember it.
 </p>
 <br />
 
