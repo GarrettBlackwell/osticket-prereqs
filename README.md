@@ -31,10 +31,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-![azure](https://github.com/GarrettBlackwell/osticket-prereqs/assets/146894477/acdb450e-b9d8-49e6-855b-43626d0a23cc)
+
+![image](https://github.com/GarrettBlackwell/osticket-prereqs/assets/146894477/9472fb69-689d-4078-851c-f7a207e7ff18)
 </p>
 <p>
-Create a Vertual Machine in Azure 
+Create a Vertual Machine (VM) in Azure, while creating the VM in the basics page create a resource group, name the VM, change the image to windows 10, pick a size with 2-4 vcpus, create a username and password and remember it.
 
 </p>
 <br />
