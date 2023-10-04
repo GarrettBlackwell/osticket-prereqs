@@ -80,7 +80,7 @@ In the VM open control panel click programs, click turn windows features on or o
 	
 </p>
 <p>
-In the VM open control panel click programs, click turn windows features on or off. Turn Internet Information Services on. Under Application Development Features click CGI then under Common HTTP Features check everything. 
+Download and install PHPManagerForIIS_V1.5.0.msi, rewrite_amd64_en-US.msi, VC_redist.x86.exe
 </p>
 <br />
 
