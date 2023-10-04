@@ -20,14 +20,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>Prerequisites</h2>
 
-- Item 1
-- VC_redist.x86.exe
-- Item 3
-- Item 4
-- Item 5
-  [Installation Files](https://drive.google.com/drive/folders/1dVwii7TNJpaFgj0uG4hpdJhc-Tag0kH9?usp=drive_link)
+- [Installation Files](https://drive.google.com/drive/folders/1dVwii7TNJpaFgj0uG4hpdJhc-Tag0kH9?usp=drive_link)
 <h2>Installation Steps</h2>
 
 <p>
@@ -70,13 +65,22 @@ Open remote desktop and paste the IP address press connect then enter your usern
 <br />
 
 <p>
+	
+![image](https://github.com/GarrettBlackwell/osticket-prereqs/assets/146894477/01a345db-4ff4-47f4-b745-e268981d277f)
+![image](https://github.com/GarrettBlackwell/osticket-prereqs/assets/146894477/5a26e797-01b9-4c10-a464-1b41078d4df3)
+![image](https://github.com/GarrettBlackwell/osticket-prereqs/assets/146894477/c8162dd8-6528-4143-a3ab-7f3c165d0040)
 
 </p>
 <p>
-In the VM 
-	open control panel click programs, click turn windows features on or off
-	turn Internet Information Services on
-	ckeck CGI and Common HTTP Features
+In the VM open control panel click programs, click turn windows features on or off. Turn Internet Information Services on. Under Application Development Features check CGI then under Common HTTP Features check everything. 
+</p>
+<br />
+
+<p>
+	
+</p>
+<p>
+In the VM open control panel click programs, click turn windows features on or off. Turn Internet Information Services on. Under Application Development Features click CGI then under Common HTTP Features check everything. 
 </p>
 <br />
 
